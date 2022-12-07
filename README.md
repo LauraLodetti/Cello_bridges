@@ -13,3 +13,5 @@ and the boundary conditions (a free / b fixed feet / c feet supported on springs
 Boundary condition c is referred to as "spring A" while boundary condition d as "spring B" in the files.
 To import correctly geometries, please check the path in Component>Geometry 1>Import 1.
 When inserting geometries different from Model 0 and Model 30, the Solid Mechanics node could require to select again boundaries and domains.  
+* ModeShapes.mp4 collects and compares for Model 0 (left) and Model 30 (right) animations of the mode shapes of the first 10 vibrational modes, in the four boundary conditions considered.
+  
