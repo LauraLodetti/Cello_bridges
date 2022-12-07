@@ -1,7 +1,5 @@
 # Cello_bridges
-Master thesis work - FEM cello bridges simulations
 
-The repository contains significant data and code (Matlab).
 Folders are organized in this way:
 * Cello_bridges/Bridge Models contains the 3D models in .sat format of Model 0, 
 also referred to as _Normal Model_, and all the other models numbered progressively up to Model 30. Model 0 is the model most similar to a 
@@ -13,5 +11,5 @@ and the boundary conditions (a free / b fixed feet / c feet supported on springs
 Boundary condition c is referred to as "spring A" while boundary condition d as "spring B" in the files.
 To import correctly geometries, please check the path in Component>Geometry 1>Import 1.
 When inserting geometries different from Model 0 and Model 30, the Solid Mechanics node could require to select again boundaries and domains.  
-* ModeShapes.mp4 collects and compares for Model 0 (left) and Model 30 (right) animations of the mode shapes of the first 10 vibrational modes, in the four boundary conditions considered.
+* ModeShapes.mp4 collects and compares for Model 0 (left) and Model 30 (right) animations of the mode shapes of the first 10 vibrational modes, in the four boundary conditions considered. The same video is also available on YouTube at this link: https://youtu.be/JTxqf4hO2vA
   
